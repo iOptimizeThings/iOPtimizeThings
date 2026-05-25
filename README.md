@@ -2,7 +2,7 @@
 
 **Senior Solutions Architect | Performance Engineer**
 
-Most of my engineering work is **proprietary enterprise code** (C#, SQL, SSAS) built for financial institutions and legal firms. Due to NDAs and intellectual property restrictions, I cannot share a lot of source code publicly.
+Most of my engineering work is **proprietary enterprise code** (C++, C#, Python, SQL, SSAS) built for financial institutions and legal firms. Due to NDAs and intellectual property restrictions, I cannot share a lot of source code publicly.
 
 **Highlights of my private work include:**
 * **Architecture:** End-to-end data models for **50M+ row** partitioned datasets.
